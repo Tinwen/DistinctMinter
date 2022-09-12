@@ -1,0 +1,24 @@
+{
+	"txHash": "aa2284a8132a9e1c883e54317466c8f618473d7b4eba16b9f3a816d6e958f4dc",
+	"gasLimit": 15000000,
+	"gasPrice": 1000000000,
+	"gasUsed": 10012522,
+	"miniBlockHash": "b0f6644096a0f287a2fcc4e857ca5416347ec01911406e1886da982a33dd7660",
+	"nonce": 16,
+	"receiver": "erd1qqqqqqqqqqqqqpgqup56pfvlh6s3grlrx08jt06ksa35kqxu548sj7cxpt",
+	"receiverShard": 1,
+	"round": 11001879,
+	"sender": "erd1278ankpvcqcmyy95gnjdp8p0g6ksje2nqy0efmhfjgn6wwst548sjr5lgt",
+	"senderShard": 1,
+	"signature": "901546862df1c755c3d4859132c7279cb26ea3c0486c77733a6e1eb5ef2d1cc4a2e210764273b80684f85950e9641c5d8f7bb1855745fbebf7924b1e005d1704",
+	"status": "success",
+	"value": "1000000000000000000",
+	"fee": "364950220000000",
+	"timestamp": 1662128874,
+	"data": "bWludFRva2Vuc0AwMUA2NEA5MDA1NDZjYWUwODZlMTgxMWQxYTc3YTg3NTNjYTQyMmViMTQzZmY0Mjc1YzkzZGQ2M2FmMDQwNjA0Zjk0MjE0YzhkYWM5YTQyYjJkYjM0OTFiZTYyN2E5MzAwMWU4NzA3YmRkM2I5YWQ4YTMyYWY3Y2Y1ZTFkZWJiMzc2NTcwMw==",
+	"function": "mintTokens",
+	"action": {
+		"category": "scCall",
+		"name": "mintTokens"
+	}
+}
